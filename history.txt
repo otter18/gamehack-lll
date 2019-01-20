@@ -1,5 +1,5 @@
-1) q
-2) w
-3) e
-4) r
-5) t
+- you win, hp - 3
+- you lose
+- you win, hp - 3
+- you win, hp - 3
+- you lose
